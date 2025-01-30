@@ -1,0 +1,2 @@
+# BRIDGECOST_CALCULATOR
+OSDAG INTERNSHIP screening project.
