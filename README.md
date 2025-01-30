@@ -19,7 +19,7 @@ A desktop application to compare the life cycle costs of steel and concrete brid
 
 1.  Clone the repository:
     
-    *   git clone [https://github.com/yourusername/bridge-cost-comparison.git](https://github.com/AmanAg744/BRIDGECOST_CALCULATOR.git)
+    *   git clone [https://github.com/AmanAg744/BRIDGECOST_CALCULATOR.git](https://github.com/AmanAg744/BRIDGECOST_CALCULATOR.git)
         
     *   cd bridge-cost-comparison
         
